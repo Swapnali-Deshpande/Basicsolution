@@ -1,0 +1,14 @@
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.AssemblyInfoInputs.cache
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.AssemblyInfo.cs
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.csproj.CoreCompileInputs.cache
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.exe
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.deps.json
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.runtimeconfig.json
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.dll
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.pdb
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.dll
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\refint\BasicSyntaxApp.dll
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.pdb
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.genruntimeconfig.cache
+D:\Class\22 June\Basicsolution\BasicSyntaxApp\obj\Debug\net9.0\ref\BasicSyntaxApp.dll
